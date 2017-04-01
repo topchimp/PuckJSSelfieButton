@@ -9,5 +9,5 @@ Disconnect from the Puck and then reconnect, which should clear it
 ## Testing
 * Pair with your phone
 * Open the camera app
-* Poit camera at your head
+* Point camera at your head
 * Push the button
